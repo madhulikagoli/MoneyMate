@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary & unrelated downloads
+*.pptx
+*.jpe
+*.jpg
+*.jpeg
+*.pdf
+Terminal Saved Output.txt
+scratch/
+scratch_*.html
+
+# Logs
+*.log
